@@ -24,6 +24,8 @@ Windows 11 · x64 · Portable · Türkçe · Yerel geçmiş
 
 ## Bilgisayarındaki hareketi anlaşılır kıl
 
+**Yeni arayüz · 0.3 beta:** Yan gezinme, sade genel bakış, canlı gösterge halkaları ve kısa geçiş animasyonları. [0.3 betayı incele →](https://github.com/Enes-Somuncular/Seyrion-Releases/releases/tag/v0.3.0-beta.1) İlk kez deniyorsan beta ZIP'ini indir; mevcut 0.2'de Güncellemeler bölümünden Beta kanalını seç. Yeni arayüzde güncellemeler Ayarlar'a taşındı. Hareket tercihi Açık / Sisteme uy / Kapalı olarak seçilebilir.
+
 | Canlı görünüm | Günlük hafıza | Senin kontrolünde |
 | :--- | :--- | :--- |
 | CPU ve RAM durumunu, uygulamaların tüketimini gör. | Hangi uygulamanın toplamda ne kadar CPU zamanı harcadığını incele. | İzlemeyi duraklat, CSV al, stabil veya beta kanalını seç. |
