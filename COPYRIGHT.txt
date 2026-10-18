@@ -1,0 +1,6 @@
+Seyrion
+Copyright (c) 2026 Enes Somuncular. All rights reserved.
+
+Seyrion application source code is proprietary and is maintained in a private repository.
+The public distribution repository contains compiled packages and product documentation.
+Third-party software retains its own license terms. See THIRD-PARTY-NOTICES.txt.

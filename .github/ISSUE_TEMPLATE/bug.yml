@@ -1,0 +1,22 @@
+name: Hata bildirimi
+description: Seyrion'da yaşadığın bir sorunu bildir.
+title: '[Hata] '
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Seyrion sürümü ve kanal
+      placeholder: 0.2.0 / Stabil
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Ne oldu?
+      description: Beklediğin davranış ve tekrar oluşturma adımları. Kişisel dosya yollarını paylaşmadan önce maskele.
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Windows sürümü ve temel donanım
